@@ -1,8 +1,29 @@
-### Hi there 👋
+# Hi, I'm Syed 👋
 
-<!--
-**sshaz1/sshaz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+Computer Science graduate interested in **Data Analytics, Business Intelligence, IT, and Cybersecurity**.
 
-- I’m currently working on this github profile 😀
-- Something interesting I’m currently learning in my computer graphics course is using glfw in C++.
-- 📫 How to reach me: Email: sshaz4498@gmail.com
+I'm currently building projects that turn raw data into useful business insights while expanding my experience with data engineering, analytics, and visualization tools.
+
+### 🔨 Currently Working On
+
+- **Retail Business Intelligence & Analytics Platform**
+  - Building an end-to-end analytics pipeline with Python, PostgreSQL, SQL, Power BI, and DAX
+  - Working with 100K+ e-commerce orders
+  - Exploring data modelling, business analytics, dashboards, and predictive modelling
+
+### 🌱 Currently Learning
+
+- Power BI & DAX
+- Data modelling and dimensional modelling
+- Advanced SQL
+- Data engineering workflows
+- Machine learning
+- Cloud technologies
+
+### 🛠️ Technologies
+
+`Python` `SQL` `PostgreSQL` `Pandas` `NumPy` `Power BI` `DAX` `Power Query` `PyTorch` `scikit-learn` `Git` `GitHub`
+
+### 🎯 Interests
+
+Data Analytics • Business Intelligence • Data Engineering • IT • Cybersecurity
