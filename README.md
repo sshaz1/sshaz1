@@ -1,29 +1,53 @@
+
 # Hi, I'm Syed 👋
 
-Computer Science graduate interested in **Data Analytics, Business Intelligence, IT, and Cybersecurity**.
+Computer Science graduate from Western University interested in **Data Analytics, Business Intelligence, Data Engineering, and IT**.
 
-I'm currently building projects that turn raw data into useful business insights while expanding my experience with data engineering, analytics, and visualization tools.
+I enjoy transforming raw data into meaningful business insights through SQL, Python, Power BI, and machine learning.
 
-### 🔨 Currently Working On
+I'm currently focused on strengthening my business intelligence skills and preparing for the **Microsoft PL-300: Power BI Data Analyst Associate certification**.
 
-- **Retail Business Intelligence & Analytics Platform**
-  - Building an end-to-end analytics pipeline with Python, PostgreSQL, SQL, Power BI, and DAX
-  - Working with 100K+ e-commerce orders
-  - Exploring data modelling, business analytics, dashboards, and predictive modelling
+### 🚀 Featured Project
 
-### 🌱 Currently Learning
+**[Retail Business Intelligence & Analytics Platform](https://github.com/sshaz1/retail-business-intelligence-platform)**
 
-- Power BI & DAX
-- Data modelling and dimensional modelling
-- Advanced SQL
-- Data engineering workflows
-- Machine learning
-- Cloud technologies
+Developed an end-to-end analytics platform using the Brazilian E-Commerce Dataset (100K+ orders).
+
+- Built data preparation workflows using Python and Pandas.
+- Developed a PostgreSQL database and analytical SQL queries.
+- Created four interactive Power BI dashboards using Power Query and DAX.
+- Trained a machine learning model to predict late deliveries using scikit-learn.
+- Integrated machine learning predictions into Power BI.
+- Automated delivery-risk reporting using Microsoft Power Automate, Excel Online, and Outlook.
+
+**Technologies:** Python, PostgreSQL, SQL, Power BI, DAX, Pandas, scikit-learn, Power Automate
+
+### 📚 Currently Learning
+
+- **Microsoft PL-300 Certification Preparation**
+  - Preparing and transforming data with Power Query
+  - Designing semantic models and relationships
+  - Writing DAX measures and calculations
+  - Creating and optimizing Power BI reports
+  - Managing and securing Power BI content
+
+- Advanced SQL and data modelling
+- Microsoft Azure and cloud analytics fundamentals
 
 ### 🛠️ Technologies
 
-`Python` `SQL` `PostgreSQL` `Pandas` `NumPy` `Power BI` `DAX` `Power Query` `PyTorch` `scikit-learn` `Git` `GitHub`
+**Data Analytics & BI**
 
-### 🎯 Interests
+`Power BI` `DAX` `Power Query` `SQL` `PostgreSQL` `Excel`
 
-Data Analytics • Business Intelligence • Data Engineering • IT • Cybersecurity
+**Programming & Machine Learning**
+
+`Python` `Pandas` `NumPy` `scikit-learn` `PyTorch`
+
+**Automation & Development**
+
+`Power Automate` `Git` `GitHub` `Jupyter Notebook`
+
+### 🎯 Career Interests
+
+Data Analytics • Business Intelligence • Data Engineering • IT
