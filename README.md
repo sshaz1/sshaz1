@@ -1,5 +1,5 @@
 
-# Hi, I'm Syed 👋
+# Hi, I'm Shaz 👋
 
 Computer Science graduate from Western University interested in **Data Analytics, Business Intelligence, Data Engineering, and IT**.
 
